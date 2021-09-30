@@ -18,9 +18,8 @@ correlation.
 
 ![Linear Regression Summary Results](/Resources/linear_regression_summary.png)
 
-The slope is not zero since the p-value is 5.35e-11. The null hypothesis is rejected as the p-value demonstrates more
-than random chance. While the r-squared indicates there is randomness or other unaccounted for factors, it is a
-moderately accurate model to predict mpg.
+The slope is not zero since the p-value is 5.35e-11. The null hypothesis is rejected. While the r-squared indicates 
+there is randomness or other unaccounted for factors, it is a moderately accurate model to predict mpg.
 
 ## T-Tests on Suspension Coils
 
